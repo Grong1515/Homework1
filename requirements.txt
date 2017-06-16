@@ -1,0 +1,8 @@
+DAWG-Python==0.7.2
+docopt==0.6.2
+nltk==3.2.1
+numpy==1.11.2
+pkg-resources==0.0.0
+pymorphy2-dicts==2.4.393442.3710985
+scikit-learn==0.18
+scipy==0.18.1
